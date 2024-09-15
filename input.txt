@@ -1,0 +1,26 @@
+Name : P0019093 Mr. K.SUBRAMANIAM (82/M)
+Sample Dt: 01/07/2022
+SID.No.: 013274
+Report Dt: 01/07/2022
+Ref.by : JOY LAB.
+Time : 14:11:20
+Page No :1
+Test Result Reference Value
+LABORATORY REPORT
+Sample collected and sent
+
+BLOOD - BIOCHEMISTRY
+
+BLOOD SUGAR (FASTING)* : 128 mg/dl 70 - 110 mg/dl
+Method : GOD - POD
+
+BLOOD SUGAR ( PP 1 1/2 HOURS)* : 98 mg/dl 80 - 160 mg/dl
+Method : GOD - POD
+
+
+
+
+P.KALIDASAN.,MSc.,MLT.,
+Lab Director
+* End Of Report *
+

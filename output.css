@@ -1,0 +1,134 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    font-family: Impact;
+}
+
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin: 5% 15%;
+}
+
+.header{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.header h1{
+    margin: 15px;
+    white-space: nowrap;
+    color: red;
+    font-size: 220%;
+}
+
+.header p{
+    margin: 4px;
+    font-weight: 600;
+    color: rgba(0, 0, 0, 0.85);
+}
+
+hr{
+    width: 100%;
+    margin: 10px;
+    background-color: black;
+    height: 1px;
+}
+
+#info{
+    font-weight: 700;
+}
+
+#info p{
+    margin: 3px;
+    color: rgba(0, 0, 0, 0.85);
+}
+
+.row{
+    width: 97%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.column{
+    display: flex;
+    flex-direction: column;
+
+}
+
+.column-left{
+    display: flex;
+    flex-direction: column;
+    align-items:flex-start;
+    align-content: flex-start;
+}
+
+.column-right{
+    display: flex;
+    flex-direction: column;
+    align-items:flex-end;
+    align-content: flex-end;
+}
+
+.footer{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.footer span{
+    font-weight: 600;
+    margin: -3px;
+}
+
+.footer p{
+    font-size: 110%;
+    font-weight: 600;
+    margin: 2px;
+}
+
+.footer h2{
+    margin: 5px;
+}
+
+#report{
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin: 5px;
+}
+
+#report h3{
+    text-align: center;
+    text-decoration: underline;
+}
+
+.row-full{
+}
+
+.row-full td{
+    font-size: 100%;
+    font-weight: 500;
+}
+
+.row-full th{
+    text-decoration: underline;
+    font-size: 120%;
+}
+
+.row-full td, .row-full th{
+    text-align: end;
+    padding: 2px;
+
+}
+
+.row-full tr{
+    vertical-align: baseline;
+}
